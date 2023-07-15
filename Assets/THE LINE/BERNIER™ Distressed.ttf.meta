@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 584d8a209e85bc34e8d2ec94ba299450
+timeCreated: 1498525768
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BERNIER? DISTRESSED
+  fontNames:
+  - BERNIER? DISTRESSED
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

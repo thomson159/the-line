@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6d8ff32192f0b04409a14810c9c8c0bf
+timeCreated: 1494605220
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Rispa
+  fontNames:
+  - Rispa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

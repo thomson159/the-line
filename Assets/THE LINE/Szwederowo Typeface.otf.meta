@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 99911fdd3929b59479be222d6719ed6b
+timeCreated: 1498524236
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Szwederowo
+  fontNames:
+  - Szwederowo
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

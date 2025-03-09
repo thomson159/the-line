@@ -14,13 +14,14 @@ Unity, C#
 
 ## Main scenes
 Here are the scenes available in the game on itch.io.
+### Paths:
 - `/Assets/THE LINE/`
 
 Recommend starting the game from the scene: `/Assets/THE LINE/THE LINE.unity` 😜
 
 ## Different scenes
 In these scenes, you can find parts of the game that are not available on itch.io. This is a completely different game – an experiment created for learning programming. Appear opponents who move and can be killed.
-### Paths
+### Paths:
 - `/Assets/scene/`
 - `/Assets/SCENY/`
 ### Available features:

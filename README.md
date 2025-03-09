@@ -24,6 +24,7 @@ Play in Web GL: [thomson159.itch.io/the-line](https://thomson159.itch.io/the-lin
 
 ## Contact
 
+### Email: [🚀@✉️.gg](mailto:🚀@✉️.gg)
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 ## Team members

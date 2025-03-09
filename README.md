@@ -28,7 +28,7 @@ In these scenes, you can find parts of the game that are not available on itch.i
 - moving -> arrows or `WSAD`
 - jumping -> spacebar
 - shooting -> right and left mouse button or arrows
-- action (open door) -> button `A`
+- action (open door) -> button `E`
 
 ![bez nazwy](https://github.com/user-attachments/assets/63ddfac0-6a7b-4449-a025-18a101d8659c)
 
